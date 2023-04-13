@@ -56,9 +56,9 @@ to check remote url
 git remote -v
 ```
 To setup CI/CD pipeline in heroku we need 3 information
-1. HEROKU_EMAIL = 
-2. HEROKU_API_KEY = 
-3. HEROKU_APP_NAME = 
+1. HEROKU_EMAIL = <EMAIL_id>
+2. HEROKU_API_KEY = <API_KEY>
+3. HEROKU_APP_NAME = <APP_NAME>
 
 BUILD DOCKER IMAGE
 ```
@@ -85,3 +85,9 @@ docker ps
 To stop docker conatiner 
 ```
 docker stop <conatiner_id>
+````
+
+Create .github file
+````
+
+````
