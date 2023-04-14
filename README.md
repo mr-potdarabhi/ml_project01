@@ -90,4 +90,6 @@ docker stop <conatiner_id>
 Create .github file
 ````
 
+```
+python setup.py install
 ````
