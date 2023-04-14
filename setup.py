@@ -3,11 +3,11 @@
 from setuptools import setup,find_packages
 #from typing import List
 
-#Declaring variables for setup functions
+#Declaring variables for setup functions    
 PROJECT_NAME="housing-predictor"
-VERSION="0.0.3"
+VERSION="0.0.2"
 AUTHOR="Abhi Potdar"
-DESRCIPTION="This is a first FSDS Nov batch Machine Learning Project"
+DESRCIPTION="This is my first Machine Learning Project"
 
 REQUIREMENT_FILE_NAME="requirements.txt"
 
